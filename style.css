@@ -88,4 +88,14 @@
     opacity:1;
   }
   
-  
+p{
+    font-size: 16px;
+    font-weight: normal; /* Remove bold styling */
+    text-align: left; /* Align text to the left */
+}  
+h4{
+    text-align: left;
+}
+.project-details{
+    /* background-color: white; */
+}
