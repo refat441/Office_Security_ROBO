@@ -128,3 +128,7 @@ h4{
 .button-text button{
   border-radius: 10px;
 }
+.system-blding li{
+  font-size: 15px;
+  text-align: none;
+}
